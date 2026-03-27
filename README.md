@@ -76,7 +76,7 @@
 
 ---
 
-## 📊 Most Used Languages  
+
 
 ## 📊 Most Used Languages  
 
@@ -92,9 +92,18 @@ I naturally break down complex problems into smaller logical steps before solvin
 
 ---
 
+
 ## 📫 Connect With Me  
 
-<!-- Add your LinkedIn / Email here -->
+<p align="center">
+  <a href="www.linkedin.com/in/sameer-achara-9a894b3ba">
+    <img src="https://img.shields.io/badge/LinkedIn-Sameer%20Achara-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="sameerachara894@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
