@@ -69,12 +69,14 @@
 
 ## 📈 GitHub Stats  
 
+## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sameer-achara&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sameer-achara&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=sameer-achara&theme=tokyonight" />
 </p>
 
 ---
+
 
 
 
