@@ -39,6 +39,7 @@
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css&theme=dark" />
 
+
 ### 🧰 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=vscode,github,git,linux&theme=dark" />
 
@@ -160,7 +161,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sameer-achara&theme=tokyonight&no-frame=true&margin-w=8&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=sameer-achara&theme=matrix&no-frame=true&row=1&column=7" />
 
 <br/><br/>
 
