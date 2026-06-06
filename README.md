@@ -1,197 +1,186 @@
 <div align="center">
 
-<!-- CYBERPUNK HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:00ffaa,100:7B2FFF&height=220&section=header&text=SAMEER%20ACHARA&fontSize=55&fontColor=00FFAA&fontAlignY=45&stroke=00FFAA&strokeWidth=2&desc=%3E_%20CS%20Student%20%7C%20Python%20%26%20Data%20Analysis%20%7C%20Learning%20AI%2FML&descAlignY=68&descSize=16&descColor=ffffff&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFD93D,75:6BCB77,100:4D96FF&height=220&section=header&text=Sameer%20Achara&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=Data%20Science%20Student%20%7C%20CSE%20%7C%20Turning%20raw%20data%20into%20real%20insights&descSize=16&descColor=ffffff&descAlignY=65&animation=fadeIn" />
 
-<!-- Typing Animation — honest, specific lines -->
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&pause=800&color=00FFAA&background=00000000&center=true&vCenter=true&width=650&lines=%5BSYS%5D+Initializing+profile...+OK;%5BLOAD%5D+Python+%2B+Data+Analysis+modules...+DONE;%5BRUN%5D+andrew_ng_ml_specialization.py;%5BOUTPUT%5D+3+data+projects+shipped%2C+more+in+progress;%5BGOAL%5D+First+Kaggle+submission+loading..." alt="Typing SVG" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Sameer+%F0%9F%91%8B;CSE+Student+%7C+Data+Science+Explorer;Python+%2B+Pandas+%2B+Matplotlib+%3D+%E2%9D%A4%EF%B8%8F;Currently+learning+Machine+Learning;Building+toward+my+first+Kaggle+win+%F0%9F%8F%86" alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<!-- Status Badges — cleaned up -->
-![Profile Views](https://komarev.com/ghpvc/?username=sameer-achara&label=VISITORS&color=00ffaa&style=for-the-badge)
-![Focus](https://img.shields.io/badge/STATUS-LEARNING-00ffaa?style=for-the-badge&labelColor=0d1117)
-![Open to Work](https://img.shields.io/badge/OPEN_TO-INTERNSHIPS-0077ff?style=for-the-badge&labelColor=0d1117)
-
-</div>
-
----
-
-## 🧬 System Info
-
-| Field | Value |
-|-------|-------|
-| 👤 **Name** | Sameer Achara |
-| 🎓 **Degree** | B.Tech Computer Science Engineering |
-| 📍 **Location** | India 🇮🇳 |
-| 🎯 **Goal** | AI / ML Engineer |
-| 🔭 **Working On** | ML Specialization (Andrew Ng, Coursera) + Classification Project |
-| 🌱 **Learning** | Machine Learning · DSA · Deep Learning Basics |
-| 🏆 **Certifications** | Cisco Networking · HackerRank CSS · Hackathon Participant |
-| ⚡ **Superpower** | Breaking complex problems into logical steps |
-
----
-
-## 🛠️ Tech Arsenal
-
 <div align="center">
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css&theme=dark" />
-
-### 🧰 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=vscode,github,git,linux&theme=dark" />
-
-### 📦 Libraries & Frameworks
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=00FFAA)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=00FFAA)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=sameer-achara&label=Profile+Views&color=FF6B6B&style=for-the-badge)
+![Open to Internships](https://img.shields.io/badge/Open%20To-Internships-FFD93D?style=for-the-badge&labelColor=1a1a2e)
+![Focus](https://img.shields.io/badge/Focus-Data%20Science-6BCB77?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
 ---
 
-## 🙋 About Me
+## 👨‍💻 About Me
 
-I'm a Computer Science Engineering student from India building toward a career in AI/ML. I learn by doing — every concept I study goes straight into a real project. Right now I'm working through machine learning fundamentals while shipping data analysis projects with Python.
-
-I'm open to **internship opportunities** in data analysis, ML, or Python development.
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Student Result Analyzer
-![Python](https://img.shields.io/badge/Python-3.10-00FFAA?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-00FFAA?style=flat-square&labelColor=0d1117)
-
-> Python-based system to analyze student performance across subjects, generate ranked reports, and produce automated visual summaries from raw CSV data.
-
-- 📈 Batch processes grade CSVs → ranked output reports
-- 📉 Subject-wise score distribution charts
-- 🔍 Flags underperformers and top scorers automatically
-
-**[→ View Repository](#)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🏏 IPL Dashboard Statistics
-![Python](https://img.shields.io/badge/Python-3.10-00FFAA?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-00FFAA?style=flat-square&labelColor=0d1117)
-
-> Data analysis dashboard exploring team and player performance trends across IPL seasons using the Kaggle IPL dataset.
-
-- 🏆 Season-over-season win-rate trends
-- 🧑 Batting & bowling stat comparisons
-- 📊 Toss-win correlation analysis across seasons
-
-**[→ View Repository](#)**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🌦️ Weather Data Analysis
-![Python](https://img.shields.io/badge/Python-3.10-00FFAA?style=flat-square&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Live-00FFAA?style=flat-square&labelColor=0d1117)
-
-> Exploratory analysis of historical weather datasets to detect seasonal temperature cycles and rainfall anomalies across multi-year records.
-
-- 🌡️ Rolling-average temperature trend analysis
-- 🌧️ Anomaly detection on 10+ years of rainfall data
-- 📅 Monthly and seasonal breakdown charts
-
-**[→ View Repository](#)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🤖 ML Classifier — In Development
-![Status](https://img.shields.io/badge/Status-In%20Development-7b2fff?style=flat-square&labelColor=0d1117)
-
-> End-to-end Scikit-learn classification pipeline on a Kaggle dataset — from raw data to trained model, evaluation metrics, and competition submission.
-
-- 🧹 Data preprocessing + feature engineering (in progress)
-- 🧠 Training Logistic Regression & Random Forest baselines
-- 📊 Evaluating with accuracy, F1-score, and confusion matrix
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=tokyonight&border_radius=10" />
-
-</div>
-
----
-
-## 🔥 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&theme=tokyo-night&hide_border=true&area=true&area_color=00ffaa&color=00ffaa&line=7b2fff&point=ffffff" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 📡 Currently Tracking
-
-> What's keeping my terminal busy right now.
-
-```bash
-$ sameer --status
-
-[ACTIVE]   Andrew Ng ML Specialization (Coursera) ........... Week 5 of 11
-[ACTIVE]   Python DSA Practice (LeetCode) ................... Arrays & Sorting
-[ACTIVE]   ML Classifier Project ............................ Feature engineering phase
-[LEARNING] Deep Learning Basics ............................ Neural net theory — just started
-[DONE]     NumPy · Pandas · Matplotlib ..................... Daily use, solid foundation
-
-> Next target: Submit first Kaggle competition entry
-> Stack: Scikit-learn · Pandas · Matplotlib
+```python
+sameer = {
+    "degree"     : "B.Tech — Computer Science Engineering",
+    "location"   : "India 🇮🇳",
+    "interests"  : ["Data Science", "Machine Learning", "Data Visualization"],
+    "currently"  : "Andrew Ng ML Specialization + building a Scikit-learn classifier",
+    "goal"       : "First Kaggle competition submission",
+    "fun_fact"   : "I trust the data more than my gut — usually 😄"
+}
 ```
 
+I'm a CSE student who got hooked on data science after realizing that a good chart can tell a story no paragraph can. I learn by building — every concept I study goes straight into a real project.
+
+Currently **open to internship opportunities** in Data Analysis, Data Science, or Python development.
+
 ---
 
-## 🌐 Connect With Me
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Core Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD93D)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+**Data Science Stack**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=4ECDC4)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=FFD93D)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=FF6B6B)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Tools & Environment**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 Projects
+
+### 📊 Student Result Analyzer
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-6BCB77?style=flat-square)
+
+Automated pipeline that processes raw student grade CSVs, computes subject-wise averages, ranks students, and generates visual performance reports — no manual work needed.
+
+- Handles multi-subject batch data with Pandas
+- Auto-generates ranked leaderboard + score distribution charts
+- Flags underperformers and top scorers automatically
+
+**[→ GitHub Repo](#)** ← *(replace # with your actual link)*
+
+---
+
+### 🏏 IPL Dashboard Statistics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-6BCB77?style=flat-square)
+
+Exploratory data analysis on the Kaggle IPL dataset — digs into team performance, player stats, and match outcomes across 15 seasons of IPL cricket.
+
+- Season-over-season win-rate trends by team
+- Batting & bowling comparison charts
+- Analyzed toss-win correlation: winner takes ~51% of matches
+
+**[→ GitHub Repo](#)** ← *(replace # with your actual link)*
+
+---
+
+### 🌦️ Weather Pattern Analysis
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Live-6BCB77?style=flat-square)
+
+10+ years of historical weather data — cleaned, analyzed, and visualized to surface seasonal temperature cycles and rainfall anomalies.
+
+- Rolling-average temperature trend detection
+- Anomaly flagging on monthly rainfall records
+- Multi-panel seasonal breakdown visualizations
+
+**[→ GitHub Repo](#)** ← *(replace # with your actual link)*
+
+---
+
+### 🤖 ML Classifier Pipeline *(In Development)*
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
+![Status](https://img.shields.io/badge/Status-In%20Progress-FF8E53?style=flat-square)
+
+End-to-end classification model on a Kaggle dataset — from messy raw data all the way to predictions and a public leaderboard score.
+
+- Currently: feature engineering + data preprocessing
+- Planned: Logistic Regression and Random Forest baselines
+- Target: submit to Kaggle and track public score
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12" />
+&nbsp;&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=radical&border_radius=12" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+| What | Where | Status |
+|------|-------|--------|
+| Machine Learning Fundamentals | Andrew Ng — Coursera ML Specialization | 🟡 Week 5 of 11 |
+| Data Structures & Algorithms | LeetCode (daily practice) | 🟡 Arrays & Sorting |
+| Scikit-learn Classification | Personal project + docs | 🟠 Feature engineering phase |
+| Deep Learning Basics | Fast.ai / YouTube | 🔴 Just started |
+| Pandas · NumPy · Matplotlib | Daily project use | 🟢 Solid foundation |
+
+---
+
+## 🏅 Achievements
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-CSS%20Certified-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Hackathon](https://img.shields.io/badge/Hackathon-Participant-FF6B6B?style=for-the-badge&logo=devpost&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Active%20Learner-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+---
+
+## 🌐 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sameer%20Achara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sameer-achara-9a894b3ba)
 [![Gmail](https://img.shields.io/badge/Gmail-sameerachara894-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sameerachara894@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-sameer--achara-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sameer-achara)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
-
-</div>
-
----
-
-## 💡 Coding Philosophy
-
-<div align="center">
-
-> *"Clarity of thought leads to clarity of code.*
-> *Break it down. Build it up. Ship it clean."*
+[![Kaggle](https://img.shields.io/badge/Kaggle-My%20Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com)
 
 </div>
 
@@ -199,7 +188,12 @@ $ sameer --status
 
 <div align="center">
 
-<!-- FOOTER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,50:0a0a0a,100:0d0d0d&height=60&section=footer&text=%3E_%20EOF%20%7C%7C%20keep_learning()&fontSize=16&fontColor=00FFAA&fontAlignY=55" />
+*"Without data you're just another person with an opinion."* — W. Edwards Deming
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,25:6BCB77,50:FFD93D,75:FF8E53,100:FF6B6B&height=120&section=footer" />
 
 </div>
