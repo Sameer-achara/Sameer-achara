@@ -124,13 +124,13 @@ End-to-end classification model on a Kaggle dataset — from messy raw data all 
 
 ---
 
-## 📈 GitHub Stats
+
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
 
 <br><br>
 
@@ -140,15 +140,7 @@ End-to-end classification model on a Kaggle dataset — from messy raw data all 
 
 ---
 
-## 📊 Most Used Languages
 
-## 📊 Most Used Languages
-
-<div align="center">
-
-<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=12" />
-
-</div>
 
 ---
 
