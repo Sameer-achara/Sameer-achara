@@ -22,25 +22,16 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+$ whoami
 
-🎓 &nbsp; **B.Tech — Computer Science Engineering**
-📍 &nbsp; India
-🔭 &nbsp; Currently working on my first **ML Classifier** on Kaggle
-🌱 &nbsp; Learning **Machine Learning** via Andrew Ng's Specialization
-📊 &nbsp; Passionate about turning raw data into visual stories
-🏆 &nbsp; Goal: Submit to my first **Kaggle competition**
-⚡ &nbsp; Fun fact: I trust the data more than my gut — *usually* 😄
+Name      : Sameer Achara
+Role      : CS Student
+Focus     : Python • Data Analysis • AI/ML
+Mission   : Build useful things and keep improving
+Status    : Learning, building, repeating
 
-<br/>
-
-I got hooked on data science after realizing a good chart can tell a story no paragraph can. I learn by building — every concept I study goes straight into a real project.
-
-Currently **open to internship opportunities** in Data Analysis, Data Science, or Python development.
-
----
 
 ## 🛠️ Tech Stack
 
