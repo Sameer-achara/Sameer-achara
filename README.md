@@ -55,7 +55,6 @@ Status    : Learning, building, repeating
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -111,18 +110,7 @@ Exploratory data analysis on the Kaggle IPL dataset — digs into team performan
 
 ---
 
-### 🤖 ML Classifier Pipeline *(In Development)*
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas)
-![Status](https://img.shields.io/badge/Status-In%20Progress-FF8E53?style=flat-square)
 
-End-to-end classification model on a Kaggle dataset — from messy raw data all the way to predictions and a public leaderboard score.
-
-- Currently: feature engineering + data preprocessing
-- Planned: Logistic Regression and Random Forest baselines
-- Target: submit to Kaggle and track public score
-
----
 
 
 
