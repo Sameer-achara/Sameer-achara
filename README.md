@@ -24,12 +24,10 @@
 
 ## 🧬 About Me
 
-$ whoami
-
-Name      : Sameer Achara
-Role      : CS Student
-Focus     : Python • Data Analysis • AI/ML
-Mission   : Build useful things and keep improving
+Name      : Sameer Achara<br>
+Role      : CS Student<br>
+Focus     : Python • Data Analysis • AI/ML<br>
+Mission   : Build useful things and keep improving<br>
 Status    : Learning, building, repeating
 
 
@@ -128,17 +126,15 @@ End-to-end classification model on a Kaggle dataset — from messy raw data all 
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=12" />
-&nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=radical&border_radius=12" />
-
-</div>
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&theme=react-dark&hide_border=true&area=true&area_color=FF6B6B&color=FFD93D&line=6BCB77&point=ffffff" alt="Contribution Graph" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sameer-achara&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&theme=react-dark&hide_border=true" />
 
 </div>
 
@@ -146,11 +142,11 @@ End-to-end classification model on a Kaggle dataset — from messy raw data all 
 
 ## 📊 Most Used Languages
 
+## 📊 Most Used Languages
+
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&theme=radical&layout=donut&border_radius=12&langs_count=8" />
-&nbsp;&nbsp;
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&theme=radical&layout=compact&border_radius=12&langs_count=8" />
+<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&border_radius=12" />
 
 </div>
 
