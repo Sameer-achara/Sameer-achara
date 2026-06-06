@@ -74,7 +74,7 @@ Automated pipeline that processes raw student grade CSVs, computes subject-wise 
 - Auto-generates ranked leaderboard + score distribution charts
 - Flags underperformers and top scorers automatically
 
-**[→ GitHub Repo](#)** ← *(replace # with your actual link)*
+**[→ GitHub Repo](https://github.com/Sameer-achara/Student-Result-Analyzer)** 
 
 ---
 
@@ -90,7 +90,7 @@ Exploratory data analysis on the Kaggle IPL dataset — digs into team performan
 - Batting & bowling comparison charts
 - Analyzed toss-win correlation: winner takes ~51% of matches
 
-**[→ GitHub Repo](#)** ← *(replace # with your actual link)*
+**[→ GitHub Repo](https://github.com/Sameer-achara/IPL-2025-Batting-Statistics-Dashboard)** 
 
 ---
 
@@ -106,7 +106,7 @@ Exploratory data analysis on the Kaggle IPL dataset — digs into team performan
 - Anomaly flagging on monthly rainfall records
 - Multi-panel seasonal breakdown visualizations
 
-**[→ GitHub Repo](#)** ← *(replace # with your actual link)*
+**[→ GitHub Repo](https://github.com/Sameer-achara/Weather-Data-Analysis-India)** 
 
 ---
 
