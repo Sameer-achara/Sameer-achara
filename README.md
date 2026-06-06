@@ -24,18 +24,19 @@
 
 ## 👨‍💻 About Me
 
-```python
-sameer = {
-    "degree"     : "B.Tech — Computer Science Engineering",
-    "location"   : "India 🇮🇳",
-    "interests"  : ["Data Science", "Machine Learning", "Data Visualization"],
-    "currently"  : "Andrew Ng ML Specialization + building a Scikit-learn classifier",
-    "goal"       : "First Kaggle competition submission",
-    "fun_fact"   : "I trust the data more than my gut — usually 😄"
-}
-```
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-I'm a CSE student who got hooked on data science after realizing that a good chart can tell a story no paragraph can. I learn by building — every concept I study goes straight into a real project.
+🎓 &nbsp; **B.Tech — Computer Science Engineering**
+📍 &nbsp; India
+🔭 &nbsp; Currently working on my first **ML Classifier** on Kaggle
+🌱 &nbsp; Learning **Machine Learning** via Andrew Ng's Specialization
+📊 &nbsp; Passionate about turning raw data into visual stories
+🏆 &nbsp; Goal: Submit to my first **Kaggle competition**
+⚡ &nbsp; Fun fact: I trust the data more than my gut — *usually* 😄
+
+<br/>
+
+I got hooked on data science after realizing a good chart can tell a story no paragraph can. I learn by building — every concept I study goes straight into a real project.
 
 Currently **open to internship opportunities** in Data Analysis, Data Science, or Python development.
 
@@ -146,21 +147,21 @@ End-to-end classification model on a Kaggle dataset — from messy raw data all 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&theme=redical&hide_border=true&area=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sameer-achara&theme=react-dark&hide_border=true&area=true&area_color=FF6B6B&color=FFD93D&line=6BCB77&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📊 Most Used Languages
 
-| What | Where | Status |
-|------|-------|--------|
-| Machine Learning Fundamentals | Andrew Ng — Coursera ML Specialization | 🟡 Week 5 of 11 |
-| Data Structures & Algorithms | LeetCode (daily practice) | 🟡 Arrays & Sorting |
-| Scikit-learn Classification | Personal project + docs | 🟠 Feature engineering phase |
-| Deep Learning Basics | Fast.ai / YouTube | 🔴 Just started |
-| Pandas · NumPy · Matplotlib | Daily project use | 🟢 Solid foundation |
+<div align="center">
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&theme=radical&layout=donut&border_radius=12&langs_count=8" />
+&nbsp;&nbsp;
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sameer-achara&theme=radical&layout=compact&border_radius=12&langs_count=8" />
+
+</div>
 
 ---
 
